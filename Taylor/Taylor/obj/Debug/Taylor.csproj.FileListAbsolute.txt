@@ -1,0 +1,9 @@
+c:\users\richt\documents\visual studio 2015\Projects\Taylor\Taylor\bin\Debug\Taylor.exe.config
+c:\users\richt\documents\visual studio 2015\Projects\Taylor\Taylor\bin\Debug\Taylor.exe
+c:\users\richt\documents\visual studio 2015\Projects\Taylor\Taylor\bin\Debug\Taylor.pdb
+c:\users\richt\documents\visual studio 2015\Projects\Taylor\Taylor\obj\Debug\Taylor.csprojResolveAssemblyReference.cache
+c:\users\richt\documents\visual studio 2015\Projects\Taylor\Taylor\obj\Debug\Taylor.exe
+c:\users\richt\documents\visual studio 2015\Projects\Taylor\Taylor\obj\Debug\Taylor.pdb
+C:\Users\radek\Desktop\Taylor\Taylor\bin\Debug\Taylor.exe.config
+C:\Users\radek\Desktop\Taylor\Taylor\obj\Debug\Taylor.exe
+C:\Users\radek\Desktop\Taylor\Taylor\obj\Debug\Taylor.pdb

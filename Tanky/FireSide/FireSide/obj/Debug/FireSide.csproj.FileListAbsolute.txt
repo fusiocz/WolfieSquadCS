@@ -1,0 +1,18 @@
+C:\Users\Kresh\Desktop\Edu projects\C#\FireSide\FireSide\bin\Debug\FireSide.exe.config
+C:\Users\Kresh\Desktop\Edu projects\C#\FireSide\FireSide\bin\Debug\FireSide.exe
+C:\Users\Kresh\Desktop\Edu projects\C#\FireSide\FireSide\bin\Debug\FireSide.pdb
+C:\Users\Kresh\Desktop\Edu projects\C#\FireSide\FireSide\obj\Debug\FireSide.csprojResolveAssemblyReference.cache
+C:\Users\Kresh\Desktop\Edu projects\C#\FireSide\FireSide\obj\Debug\FireSide.Form1.resources
+C:\Users\Kresh\Desktop\Edu projects\C#\FireSide\FireSide\obj\Debug\FireSide.Properties.Resources.resources
+C:\Users\Kresh\Desktop\Edu projects\C#\FireSide\FireSide\obj\Debug\FireSide.csproj.GenerateResource.Cache
+C:\Users\Kresh\Desktop\Edu projects\C#\FireSide\FireSide\obj\Debug\FireSide.exe
+C:\Users\Kresh\Desktop\Edu projects\C#\FireSide\FireSide\obj\Debug\FireSide.pdb
+C:\Users\Predator\Desktop\FireSide\FireSide\FireSide\bin\Debug\FireSide.exe.config
+C:\Users\Predator\Desktop\FireSide\FireSide\FireSide\bin\Debug\FireSide.exe
+C:\Users\Predator\Desktop\FireSide\FireSide\FireSide\bin\Debug\FireSide.pdb
+C:\Users\Predator\Desktop\FireSide\FireSide\FireSide\obj\Debug\FireSide.csprojResolveAssemblyReference.cache
+C:\Users\Predator\Desktop\FireSide\FireSide\FireSide\obj\Debug\FireSide.Form1.resources
+C:\Users\Predator\Desktop\FireSide\FireSide\FireSide\obj\Debug\FireSide.Properties.Resources.resources
+C:\Users\Predator\Desktop\FireSide\FireSide\FireSide\obj\Debug\FireSide.csproj.GenerateResource.Cache
+C:\Users\Predator\Desktop\FireSide\FireSide\FireSide\obj\Debug\FireSide.exe
+C:\Users\Predator\Desktop\FireSide\FireSide\FireSide\obj\Debug\FireSide.pdb
